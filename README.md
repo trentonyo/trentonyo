@@ -6,6 +6,11 @@ TRENTON YOUNG
 
 [Request Contact Information](mailto:askstartout@gmail.com?subject=Request%20for%20Contact%20Info%20%7C%20Trenton%20Young&body=%5BPlease%20include%20your%20own%20contact%20information%20as%20well%20as%20the%20reason%20you%20are%20requesting%20information!%5D)
 
+In addition to pins:
+================
+
+I am working on an API for healthcare practitioner data, but the repository must remain private for the time being. Expand the résumé section below and [see the experience section that describes my roles in this project.](#cms-payer-provider-senior-capstone-project)
+
 <details>
 <summary>
 Click to reveal my résumé!
@@ -42,7 +47,7 @@ Education
 Experience
 ==========
 
-> ### CMS Payer Provider - Senior Capstone Project
+> ### CMS Payer Provider Senior Capstone Project
 >
 > *CMS Payer Provider Data API, Oregon State University, Corvallis,
 > Oregon | Sep. 2023 - Jun. 2024*
