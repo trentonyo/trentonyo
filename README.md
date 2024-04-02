@@ -9,7 +9,7 @@ TRENTON YOUNG
 In addition to pins:
 ================
 
-I am working on an API for healthcare practitioner data, but the repository must remain private for the time being. Expand the résumé section below and [see the experience section that describes my roles in this project.](#cms-payer-provider-senior-capstone-project)
+I am working on an API for healthcare practitioner data, but the repository must remain private for the time being. Expand the résumé section below and [see the experience section that describes my roles in this project.](#cms-payer-provider---senior-capstone-project)
 
 <details>
 <summary>
@@ -47,7 +47,7 @@ Education
 Experience
 ==========
 
-> ### CMS Payer Provider Senior Capstone Project
+> ### CMS Payer Provider - Senior Capstone Project
 >
 > *CMS Payer Provider Data API, Oregon State University, Corvallis,
 > Oregon | Sep. 2023 - Jun. 2024*
@@ -65,7 +65,7 @@ Experience
     > pull requests weekly
 
 
-> ### Administrative Assistant- Facilities and Maintenance
+> ### Administrative Assistant - Facilities and Maintenance
 >
 > *Peacehealth Ketchikan, Ketchikan, Alaska | Jan. 2019 - Dec. 2020*
 >
@@ -79,7 +79,7 @@ Experience
     > concerning patient and employee safety
 
 
-> ### Patient Access Representative- Admitting
+> ### Patient Access Representative - Admitting
 >
 > *Peacehealth Ketchikan, Ketchikan, Alaska | Jan. 2017 - Dec. 2019*
 >
