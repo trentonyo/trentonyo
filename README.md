@@ -8,7 +8,7 @@ TRENTON YOUNG
 
 <details>
 <summary>
-Click to reveal my resume!
+Click to reveal my résumé!
 </summary>
 
 # Professional Summary
