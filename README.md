@@ -52,45 +52,35 @@ Experience
 > *CMS Payer Provider Data API, Oregon State University, Corvallis,
 > Oregon | Sep. 2023 - Jun. 2024*
 >
-> - Nominated to leadership role, project sponsored by and in
-    > collaboration with industry CMS Payer
+> - Nominated to leadership role, project sponsored by and in collaboration with industry CMS Payer
 >
-> - Utilized Python asynchronous programming, Flask API, Docker/GCP
-    > deployment, postgreSQL
+> - Utilized Python asynchronous programming, Flask API, Docker/GCP deployment, postgreSQL
 >
-> - Maintain user-centric design, was a guide and educator for 5
-    > talented collaborators
+> - Maintain user-centric design, was a guide and educator for 5 talented collaborators
 >
-> - Owned all DevOps, GitHub integrations, workflows, actions, reviewed
-    > pull requests weekly
+> - Owned all DevOps, GitHub integrations, workflows, actions, reviewed pull requests weekly
 
 
 > ### Administrative Assistant - Facilities and Maintenance
 >
 > *Peacehealth Ketchikan, Ketchikan, Alaska | Jan. 2019 - Dec. 2020*
 >
-> - Enhanced Computerized Maintenance Management System, over twice as
-    > accurate
+> - Enhanced Computerized Maintenance Management System, over twice as accurate
 >
-> - Cooperated closely with other departments in crisis, responded to
-    > several cataclysmic emergencies including two plane crashes
+> - Cooperated closely with other departments in crisis, responded to several cataclysmic emergencies including two plane crashes
 >
-> - Organized meetings with internal and external C-suite executives
-    > concerning patient and employee safety
+> - Organized meetings with internal and external C-suite executives concerning patient and employee safety
 
 
 > ### Patient Access Representative - Admitting
 >
 > *Peacehealth Ketchikan, Ketchikan, Alaska | Jan. 2017 - Dec. 2019*
 >
-> - Welcomed and registered 50+ patients per shift of outpatient clinics
-    > and ER at all hours
+> - Welcomed and registered 50+ patients per shift of outpatient clinics and ER at all hours
 >
-> - Performed clerical tasks, interacted with international insurance
-    > agencies via telephone and fax
+> - Performed clerical tasks, interacted with international insurance agencies via telephone and fax
 >
-> - Mastered Epic, #1 electronic health record in US, and helped
-    > teammates improve workflows
+> - Mastered Epic, #1 electronic health record in US, and helped teammates improve workflows
 
 ----------------------------------
 
