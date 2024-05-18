@@ -89,7 +89,10 @@ SKILLS
 - Lua
 - Java
 
-## Tools 
+## Tools / Platforms
+- Windows
+- Ubuntu
+- OSX
 - IntelliJ IDEs
 - Node.js
 - SSH
