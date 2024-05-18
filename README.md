@@ -15,107 +15,103 @@ I am working on an API for healthcare practitioner data, but the repository must
 <summary>
 Click to reveal my résumé!
 </summary>
-
-# Professional Summary
-
-Lifelong coder, began self-teaching in eighth grade; naturally grew into
-a love for human-centered design. Proficient in many code languages,
-skilled enough to be not limited to them. Celebrated collaborator and
-contributor among peers and leaders.
-
-----------------------------------
-
-Education
+ 
+EDUCATION
 =========
 
-> ### Bachelor of Science, Applied Computer Science
->
-> *Oregon State University, Corvallis, Oregon | August 2024*
->
+> ## Bachelor of Science, Applied Computer Science	_(September 2024)_
+> ### Oregon State University, Corvallis, Oregon
+> #### Highlights:
 > - Human-Computer Interaction Focus
-
-
-> ### Associates of Science, Health Information Management
->
-> *University of Alaska Southeast, Sitka, Alaska | May 2019*
->
+> - Cloud development classes
+> - Leadership roles in team projects
+> - Experience developing in Windows, Linux, and OSX environments (local and remote)
+> - Cybersecurity class
+ 
+> ## Associates of Science, Health Information Management	_(May 2019)_
+> ### University of Alaska Southeast, Sitka, Alaska
+> #### Highlights:
 > - Graduate of Distinction
-> - Commencement Speaker
+> - Speaker at Commencement Ceremony
+> - Healthcare Law Classes
 
-----------------------------------
-
-Experience
-==========
-
-> ### CMS Payer Provider - Senior Capstone Project
+--------------------------------
+ 
+PROJECTS
+========
+> ## TODO-Or-Not - Python Package
+> ##### [github.com/Start-Out/todo-or-not](https://github.com/Start-Out/todo-or-not)
 >
-> *CMS Payer Provider Data API, Oregon State University, Corvallis,
-> Oregon | Sep. 2023 - Jun. 2024*
+> - Package leverages GitHub API to integrate codebase comments with repository issues
+> - Used DevOps design mindset and designed tool to be integrated into GitHub Workflow
+> - Wrote CI/CD pipeline that tests with pytest and Coveralls and deploys to PyPi
+> - Collaborate with open-source contributors to translate UX into three languages
+
+> ## CMS Payer Provider - Senior Capstone Project
+> ##### _private repository_ - Oregon State University, Corvallis, Oregon
 >
 > - Nominated to leadership role, project sponsored by and in collaboration with industry CMS Payer
->
-> - Utilized Python asynchronous programming, Flask API, Docker/GCP deployment, postgreSQL
->
+> - Utilized Python asynchronous programming to increase response speed 5x
 > - Maintain user-centric design, was a guide and educator for 5 talented collaborators
->
-> - Owned all DevOps, GitHub integrations, workflows, actions, reviewed pull requests weekly
+> - Owned all CI/CD, GitHub integrations, workflows, deployed Docker cluster to Google Cloud Platform instance
 
+---------------------------------
 
-> ### Administrative Assistant - Facilities and Maintenance
->
-> *Peacehealth Ketchikan, Ketchikan, Alaska | Jan. 2019 - Dec. 2020*
+WORK EXPERIENCE
+===============
+
+> ## Administrative Assistant - Facilities and Maintenance	_Jan. 2019 - Dec. 2020_
+> ### Peacehealth Ketchikan, Ketchikan, Alaska
 >
 > - Enhanced Computerized Maintenance Management System, over twice as accurate
->
 > - Cooperated closely with other departments in crisis, responded to several cataclysmic emergencies including two plane crashes
->
 > - Organized meetings with internal and external C-suite executives concerning patient and employee safety
 
+-----------------------------------
 
-> ### Patient Access Representative - Admitting
->
-> *Peacehealth Ketchikan, Ketchikan, Alaska | Jan. 2017 - Dec. 2019*
->
-> - Welcomed and registered 50+ patients per shift of outpatient clinics and ER at all hours
->
-> - Performed clerical tasks, interacted with international insurance agencies via telephone and fax
->
-> - Mastered Epic, #1 electronic health record in US, and helped teammates improve workflows
-
-----------------------------------
-
-Skills
+SKILLS
 ======
 
-- Python
-- C/C++
+## Continuous Deployment: 
 - Github Actions
 - Github Environments
 - Docker
-- Javascript
-- Node.js
+- Ubuntu
 - postgreSQL
-- Java
-- PHP
+- Google Cloud Platform
+
+## Programming Languages
+- Python
+- C/C++
+- Javascript
+- Go
 - Assembly
-- QGIS
+- Lua
+- Java
+
+## Tools 
+- IntelliJ IDEs
+- Node.js
+- SSH
+- Insomnia
 - Trello
 - Asana
-- IntelliJ
-- Platform IDEs
-- Microsoft Office (including Access)
+- MS Office (including Access)
+- QGIS
+- Blender
+
+## Soft Skills
+- universal design
 - collaboration
 - leadership
 - project management
-- Blender
-- Ubuntu
 
-----------------------------------
-
-Awards
+AWARDS
 ======
 
-> ### Graduate of Distinction | May 2019
-> Awarded Graduate of Distinction by the Health Information Management department of UAS Sitka
+> ## Graduate of Distinction
+> #### May 2019
+> 
+> Awarded by the Health Information Management department of UAS Sitka
 
 </details>
