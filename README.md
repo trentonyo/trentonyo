@@ -13,8 +13,7 @@ Outside of my institutional education, I reach higher and strive to improve my k
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/trentonyo.png" alt="TryHackMe"> 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6609c3dbda1671f986ef14a5?variant=dark)](https://roadmap.sh) 
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6609c3dbda1671f986ef14a5?variant=dark&roadmaps=python%2Cdocker%2Cdevops)](https://roadmap.sh)
 ### Other Links:
 
 - [Microsoft Learn Transcripts](https://learn.microsoft.com/en-us/users/trentonyo/transcript/v03o0f32n4rz1k0)
