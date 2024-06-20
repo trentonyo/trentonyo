@@ -121,7 +121,7 @@ Python, JavaScript, GitHub Actions, Figma, IntelliJ IDEs, MS Office, leadership,
 Docker, Node.js, GitHub Environments, Cloud Deployment (GCP), PostgreSQL, Insomnia, SSH, Blender, Trello, Asana, Lua, Java, integration testing, C/C++, Ubuntu, Software Development Lifecycle, universal design
 
 ### 🔜 Learning: 
-GitLab, Kubernetes, Assembly, QGIS, Golang, cybersecurity, DevSecOps
+GitLab, Kubernetes, Assembly, QGIS, Jenkins, Golang, cybersecurity, DevSecOps
 
 ## AWARDS
 
