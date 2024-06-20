@@ -118,10 +118,10 @@ Having had so much time to build these skills, my goals for growth are grand and
 Python, JavaScript, GitHub Actions, Figma, IntelliJ IDEs, MS Office, leadership, project management, collaboration, unit testing, regression testing
 
 ### ✅ Intermediate: 
-Docker, Node.js, GitHub Environments, Cloud Deployment (GCP), PostgreSQL, Insomnia, SSH, Blender, Trello, Asana, Lua, Java, integration testing, C/C++, Ubuntu, Software Development Lifecycle, universal design
+Docker, Node.js, GitHub Environments, Cloud Deployment (GCP), PostgreSQL, Insomnia, SSH, Blender, Trello, Asana, Lua, Java, integration testing, C/C++, GitLab, Ubuntu, Software Development Lifecycle, universal design
 
 ### 🔜 Learning: 
-GitLab, Kubernetes, Assembly, QGIS, Jenkins, Golang, cybersecurity, DevSecOps
+Kubernetes, Assembly, QGIS, Jenkins, Golang, cybersecurity, DevSecOps
 
 ## AWARDS
 
