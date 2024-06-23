@@ -11,7 +11,7 @@ PERSONAL GROWTH
 
 Outside of my institutional education, I reach higher and strive to improve my knowledge and understanding of topics about which I am passionate. Here are a few indicators of the ongoing learning and practice I do in my own time!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/trentonyo.png" alt="TryHackMe"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/trentonyo.png" alt="TrentonYo's TryHackMe badge"> 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6609c3dbda1671f986ef14a5?variant=dark&roadmaps=python%2Cdocker%2Cdevops)](https://roadmap.sh)
 ### Other Links:
