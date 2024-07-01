@@ -18,6 +18,16 @@ Outside of my institutional education, I reach higher and strive to improve my k
 
 - [Microsoft Learn Transcripts](https://learn.microsoft.com/en-us/users/trentonyo/transcript/v03o0f32n4rz1k0)
 
+
+<details>
+ <summary>
+  Certificates/Certificates of Completion
+ </summary>
+
+ ![DevSecOps Path on TryHackMe](https://github.com/trentonyo/trentonyo/assets/10158233/dd49a607-39f2-4be5-80e5-9b218bad1fd2)
+ 
+</details>
+
 TOOLCHAIN
 ---------
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)
