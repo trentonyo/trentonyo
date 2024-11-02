@@ -7,6 +7,20 @@ TRENTON YOUNG
 [Request Contact Information](mailto:askstartout@gmail.com?subject=Request%20for%20Contact%20Info%20%7C%20Trenton%20Young&body=%5BPlease%20include%20your%20own%20contact%20information%20as%20well%20as%20the%20reason%20you%20are%20requesting%20information!%5D)
 
 ![trentonyo's Stats](https://github-readme-stats.vercel.app/api?username=trentonyo&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+-----------------
+
+![StartOut Logo](https://github.com/user-attachments/assets/72ff6d27-e876-4a5a-b75e-81cf6e9f9b9e)
+### Check out [StartOut](github.com/Start-Out) to see more of my work!
+
+StartOut is a collaborative developer group founded by myself and [@Gehrkej](https://github.com/Gehrkej). A lot of my work is done over there, check out these projects to see my handiwork:
+
+- [todo-or-not](https://github.com/Start-Out/todo-or-not)
+- [golden-paths](https://github.com/Start-Out/golden-paths)
+  - [postgres x express x react Path](https://github.com/Start-Out/path-postgresql-express-react)
+- [ToyGether](toygether.net)
+- **Moment Eternal**: Unnanounced roguelite PC game
+- [GitHub PR templates](https://github.com/Start-Out/.github)
    
 PERSONAL GROWTH
 --------------
@@ -35,6 +49,11 @@ Outside of my institutional education, I reach higher and strive to improve my k
 
 TOOLCHAIN
 ---------
+
+<details>
+<summary>
+   Click to reveal
+</summary>
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white)](#)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
@@ -73,6 +92,7 @@ TOOLCHAIN
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+</details>
 
 
 RESUME
@@ -85,8 +105,7 @@ Click to reveal
 
 ## ABOUT ME
 I have been coding since childhood. The year 2024 will mark a very exciting milestone for me, I will have been coding for over half my life come November. Throughout my life I have worked programming and scripting into virtually everything I do from music, to games, to family, to art, and so many other aspects that I couldn’t hope to enumerate because it is so ubiquitous. 
-
-Having had so much time to build these skills, my goals for growth are grand and uniquely achievable by me. My passion for leadership and collaboration has led me to building a professional team of peers and developing products as a start up. I aim high for roles like DevSecOps engineer, release manager, and other roles that are generally held by more experienced programmers because I honestly place myself on that level; I've come up against what felt at the time like impossible gaps in understanding but have always been able to bridge what I know and what my experience as an excellent student has enabled me to learn as needed. My knowledge base and experiences are vast enough that I can effectively learn new skills and tools as if I had a head start of at least a year working with them. I never shy away from an opportunity to use a new tool or framework, I always dive in and aim to become a champion of the system for my team. 
+My passion for leadership and collaboration has led me to building a professional team of peers and developing products as a start up. I aim high because I know that I can rise to the occasion when tasked with a challenge; I've come up against what felt at the time like impossible gaps in understanding but have always been able to bridge what I know and what my experience as an excellent student has enabled me to learn as needed. My knowledge base and experiences are vast enough that I can effectively learn new skills and tools as if I had a head start of at least a year working with them. I never shy away from an opportunity to use a new tool or framework, I always dive in and aim to become a champion of the system for my team. 
 
 ## EDUCATION
 > ### Bachelor of Science, Applied Computer Science
@@ -98,18 +117,34 @@ Having had so much time to build these skills, my goals for growth are grand and
 > - Cloud development classes, website won Hall of Fame recognition, gave experience with Node.js, Flask, MongoDB, and designing RESTful APIs
 > - Leadership roles in team projects, several projects per year with different members and different tasks gave flexible leadership experience
 > - Experience developing in and for Windows, Linux, and OSX environments (local and remote)
+
  
 > ## Associates of Science, Health Information Management
 > _May 2019_
 > #### University of Alaska Southeast, Sitka, Alaska
 > - Graduate of Distinction, Commencement Speaker
+>
+> Hightlights:
+> - E-Learning platform taught effective use of technology and self-motivation
+> - Health Law classes instructed HIPAA, HITECH, as well as ICD-10 and CPT
+> - Intermediate anatomy and physiology
+
  
 ## PROJECTS
 > ### [TODO-Or-Not - Python Package](github.com/Start-Out/todo-or-not)
 > _Integrate your TODO comments with GitHub issues, easy set up and no write perms needed_
 > - Package uses GitHub API to generate issues from inline comments in the code with context
-> - Wrote CI/CD pipeline that tests with pytest and Coveralls and deploys to PyPi
+> - Wrote CI/CD pipeline that tests with Pytest and Coveralls and deploys to PyPi
 > - Collaborate with open-source contributors to localize into three international languages
+
+
+> ### [GoldenPaths - Platform Template Engine](github.com/Start-Out/todo-or-not)
+> _Templatize frameworks, pipelines, tools, and environments then use them right from the command line_
+> - Defined a flexible and portable framework for defining tool and framework dependencies in YAML
+> - Wrote a CLI in Python for cloning and configuring templates on Windows, Mac, Linux
+> - Maintaining templates, list includes modern web app and will continue to grow
+> - Devised exhaustive testing suite across Windows, MacOS, and Linux with Python 3.8-3.12
+
 
 > ### [Healthcare Provider Data API - Senior Capstone Project](github.com/FHIRType/workshop)
 > _Partnered with CMS Payer Provider PacificSource, Oregon State University, Corvallis, Oregon_
@@ -120,7 +155,7 @@ Having had so much time to build these skills, my goals for growth are grand and
 
 ## WORK EXPERIENCE
 > ### Administrative Assistant - Facilities and Maintenance
-> _Jan. 2019 - Dec. 2020_
+> _Jan. 2019 - Dec. 2019_
 > _Peacehealth Ketchikan, Ketchikan, Alaska_
 > - Roles included office support work, responding to security and safety calls, reporting to standards bodies
 > - Enhanced Computerized Maintenance Management System, increased asset coverage to include 200 more life safety assets, a 4x increase over old paper system
@@ -139,6 +174,12 @@ Docker, Node.js, GitHub Environments, Cloud Deployment (GCP), PostgreSQL, Insomn
 Kubernetes, Assembly, QGIS, Jenkins, Golang, cybersecurity, DevSecOps
 
 ## AWARDS
+
+> ### GitHub Foundations Certificate
+> _September 2024_
+
+> ### Completed DevSecOps Path on TryHackMe
+> _July 2024_
 
 > ### Awarded Graduate of Distinction by the Health Information Management department of UAS Sitka
 > _May 2019_
