@@ -1,10 +1,12 @@
-TRENTON YOUNG
+[TRENTON YOUNG](https://trentonyo.com)
 =============
 
 - 👔 Looking for work!
 - 🧠 Looking for collaborators!
 
 [Request Contact Information](mailto:askstartout@gmail.com?subject=Request%20for%20Contact%20Info%20%7C%20Trenton%20Young&body=%5BPlease%20include%20your%20own%20contact%20information%20as%20well%20as%20the%20reason%20you%20are%20requesting%20information!%5D)
+
+[Visit Portfolio](https://trentonyo.com)
 
 ![trentonyo's Stats](https://github-readme-stats.vercel.app/api?username=trentonyo&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
