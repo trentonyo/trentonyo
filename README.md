@@ -13,7 +13,7 @@
 -----------------
 
 ![StartOut Logo](https://github.com/user-attachments/assets/72ff6d27-e876-4a5a-b75e-81cf6e9f9b9e)
-### Check out [StartOut](https://github.com/Start-Out) to see more of my work!
+### Check out [StartOut](https://github.com/Start-Out) to see more of my work and how I apply my skills!
 
 StartOut is a collaborative developer group founded by myself and [@Gehrkej](https://github.com/Gehrkej). A lot of my work is done over there, check out these projects to see my handiwork:
 
