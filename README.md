@@ -1,8 +1,7 @@
 [TRENTON YOUNG](https://trentonyo.com?utm_source=github&utm_medium=profile&utm_campaign=portfolio_launch)
 =============
 
-- 👔 Looking for work!
-- 🧠 Looking for collaborators!
+- 🧠 Looking for collaborators! I have a few projects planned that need more hands to bring to life! 
 
 [Request Contact Information](mailto:askstartout@gmail.com?subject=Request%20for%20Contact%20Info%20%7C%20Trenton%20Young&body=%5BPlease%20include%20your%20own%20contact%20information%20as%20well%20as%20the%20reason%20you%20are%20requesting%20information!%5D)
 
